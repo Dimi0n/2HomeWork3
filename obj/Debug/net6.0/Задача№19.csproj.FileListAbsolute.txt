@@ -1,0 +1,30 @@
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#3\Задача№19\bin\Debug\net6.0\Задача№19.exe
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#3\Задача№19\bin\Debug\net6.0\Задача№19.deps.json
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#3\Задача№19\bin\Debug\net6.0\Задача№19.runtimeconfig.json
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#3\Задача№19\bin\Debug\net6.0\Задача№19.dll
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#3\Задача№19\bin\Debug\net6.0\Задача№19.pdb
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#3\Задача№19\obj\Debug\net6.0\Задача№19.csproj.AssemblyReference.cache
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#3\Задача№19\obj\Debug\net6.0\Задача№19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#3\Задача№19\obj\Debug\net6.0\Задача№19.AssemblyInfoInputs.cache
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#3\Задача№19\obj\Debug\net6.0\Задача№19.AssemblyInfo.cs
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#3\Задача№19\obj\Debug\net6.0\Задача№19.csproj.CoreCompileInputs.cache
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#3\Задача№19\obj\Debug\net6.0\Задача№19.dll
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#3\Задача№19\obj\Debug\net6.0\refint\Задача№19.dll
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#3\Задача№19\obj\Debug\net6.0\Задача№19.pdb
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#3\Задача№19\obj\Debug\net6.0\Задача№19.genruntimeconfig.cache
+C:\Users\Dimion\Desktop\GB Дом.задания\HomeWork#3\Задача№19\obj\Debug\net6.0\ref\Задача№19.dll
+C:\Users\Dimion\Desktop\GB Дом.задания\Первая часть\HomeWork#3\Задача№19\bin\Debug\net6.0\Задача№19.exe
+C:\Users\Dimion\Desktop\GB Дом.задания\Первая часть\HomeWork#3\Задача№19\bin\Debug\net6.0\Задача№19.deps.json
+C:\Users\Dimion\Desktop\GB Дом.задания\Первая часть\HomeWork#3\Задача№19\bin\Debug\net6.0\Задача№19.runtimeconfig.json
+C:\Users\Dimion\Desktop\GB Дом.задания\Первая часть\HomeWork#3\Задача№19\bin\Debug\net6.0\Задача№19.dll
+C:\Users\Dimion\Desktop\GB Дом.задания\Первая часть\HomeWork#3\Задача№19\bin\Debug\net6.0\Задача№19.pdb
+C:\Users\Dimion\Desktop\GB Дом.задания\Первая часть\HomeWork#3\Задача№19\obj\Debug\net6.0\Задача№19.csproj.AssemblyReference.cache
+C:\Users\Dimion\Desktop\GB Дом.задания\Первая часть\HomeWork#3\Задача№19\obj\Debug\net6.0\Задача№19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimion\Desktop\GB Дом.задания\Первая часть\HomeWork#3\Задача№19\obj\Debug\net6.0\Задача№19.AssemblyInfoInputs.cache
+C:\Users\Dimion\Desktop\GB Дом.задания\Первая часть\HomeWork#3\Задача№19\obj\Debug\net6.0\Задача№19.AssemblyInfo.cs
+C:\Users\Dimion\Desktop\GB Дом.задания\Первая часть\HomeWork#3\Задача№19\obj\Debug\net6.0\Задача№19.csproj.CoreCompileInputs.cache
+C:\Users\Dimion\Desktop\GB Дом.задания\Первая часть\HomeWork#3\Задача№19\obj\Debug\net6.0\Задача№19.dll
+C:\Users\Dimion\Desktop\GB Дом.задания\Первая часть\HomeWork#3\Задача№19\obj\Debug\net6.0\refint\Задача№19.dll
+C:\Users\Dimion\Desktop\GB Дом.задания\Первая часть\HomeWork#3\Задача№19\obj\Debug\net6.0\Задача№19.pdb
+C:\Users\Dimion\Desktop\GB Дом.задания\Первая часть\HomeWork#3\Задача№19\obj\Debug\net6.0\Задача№19.genruntimeconfig.cache
+C:\Users\Dimion\Desktop\GB Дом.задания\Первая часть\HomeWork#3\Задача№19\obj\Debug\net6.0\ref\Задача№19.dll
